@@ -15,7 +15,7 @@
 
 <p align="center">
 - Based in Germany<br>
-- Love cats
+- Love cats<br>
 - Using C# for projects<br>
 - Committing whenever I feel like it<br>
 - Not very active
