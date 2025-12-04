@@ -1,5 +1,5 @@
 <h1 align="center">Hi, im 94rk (pronounced dark)
-<h3 align="center">Student | C#</h3>
+<h3 align="center">Student</h3>
   
 <p align="center">
   <a href="https://discord.com/users/1236576355148369940">
