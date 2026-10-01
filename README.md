@@ -1,5 +1,4 @@
-<h1 align="center">Hi, im 94rk (pronounced dark)
-<h3 align="center">Student</h3>
+<h1 align="center">hi im dark</h1>
   
 <p align="center">
   <a href="https://discord.com/users/1236576355148369940">
@@ -11,17 +10,16 @@
 
 ---
 
-<h2 align="center">A few things about me</h2>
+<h2 align="center">about me</h2>
 
 <p align="center">
-- Based in Germany<br>
-- Love cats<br>
-- Using C# for projects<br>
-- Committing whenever I feel like it<br>
-- Not very active
+- german<br>
+- love cats n wolves<br>
+- i use c# btw<br>
+- active once every full moon<br>
+- furry<br>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/94rk?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=5D3FD3" alt="GitHub Followers">
-
 </p>
